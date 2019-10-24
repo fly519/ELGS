@@ -105,7 +105,7 @@ python test.py --ckpt trained_model/best_seg_model.ckpt  --ckpt_meta trained_mod
 
 ## Citation
 ```
-@inproceedings{Inventor0,
+@inproceedings{fly519,
   title={Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations},
   author={Xu Wang, Jingming He and Lin Ma},
   booktitle={NeurIPS},

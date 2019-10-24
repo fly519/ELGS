@@ -1,7 +1,5 @@
-# ELGS
-Code for the paper: Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations
-
 # Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations
+Code for the paper: Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations
 
 
 ## Introduction

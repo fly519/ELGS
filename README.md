@@ -8,7 +8,7 @@ we propose one novel model for point cloud semantic segmentation, which exploit 
 
 ## Data download and process
 
-We provide the processed files, you can download S3DIS data <a href="https://1drv.ms/u/s!AjxFyWxg5usOajIvRkNnDLOnT3M?e=mmhCMf">here</a>  and scannet <a href="https://shapenet.cs.stanford.edu/media/scannet_data_pointnet2.zip">here</a>. To prepare your own S3DIS Dataset HDF5 files, refer to <a href="https://github.com/charlesq34/pointnet">PointNet</a>, you need to firstly  download <a href="http://buildingparser.stanford.edu/dataset.html">3D indoor parsing dataset version 1.2</a> (S3DIS Dataset) and convert original data to data label files by 
+We provide the processed files, you can download S3DIS data <a href="https://1drv.ms/u/s!AjxFyWxg5usOajIvRkNnDLOnT3M?e=mmhCMf">here</a>  . To prepare your own S3DIS Dataset HDF5 files, refer to <a href="https://github.com/charlesq34/pointnet">PointNet</a>, you need to firstly  download <a href="http://buildingparser.stanford.edu/dataset.html">3D indoor parsing dataset version 1.2</a> (S3DIS Dataset) and convert original data to data label files by 
 
 ```bash
 python collect_indoor3d_data.py
